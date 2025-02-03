@@ -1,6 +1,9 @@
-GB Fishing Game
+# GB Fishing Game
+
+![GB Fishing Game Gameplay](gameplay.gif)
+
 A simple, relaxing fishing game for the Game Boy, created in collaboration with Claude AI during a 10-hour game jam session.
-About
+
 GB Fishing Game is a peaceful fishing simulator where you can:
 
 Cast your line with variable power
